@@ -1,7 +1,7 @@
 name: Steamed Design
 favicon: null
 layout_spectrum: 0.14855118934065104
-typography_spectrum: 0.36855767015367746
+typography_spectrum: 0.24868
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.3874554249923676
+  brandStrength: 0
   lightness: 0.7480492114555091
   saturation: 0.9018292466644198
   rhythmicContrast: 0.08771117264404893
